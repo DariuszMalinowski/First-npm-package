@@ -1,0 +1,21 @@
+{
+  "name": "@malina-gab/randomid-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DariuszMalinowski/First-npm-package.git"
+  },
+  "keywords": [],
+  "author": "Malina",
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/DariuszMalinowski/First-npm-package/issues"
+  },
+  "homepage": "https://github.com/DariuszMalinowski/First-npm-package#readme"
+}
